@@ -8,5 +8,9 @@ namespace ConsoleApp1
 {
     class test
     {
+        public void abc()
+        {
+            Console.WriteLine("Hi");
+        }
     }
 }
